@@ -1,6 +1,6 @@
 # Data-Visualization-in-Python
 
-![https://www.simplilearn.com/ice9/free_resources_article_thumb/Data_Visualization_Tools.jpg]
+![.csv files/data viz.jpg]
 
 This repository has a complete Python CheatSheet to create different visualizations in Python. 
 
