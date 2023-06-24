@@ -1,6 +1,6 @@
 # Data-Visualization-in-Python
 
-![https://github.com/ayushmandurgapal/Data-Visualization-in-Python/blob/main/.csv%20files/data%20viz.jpg]
+!(https://github.com/ayushmandurgapal/Data-Visualization-in-Python/blob/main/.csv%20files/data%20viz.jpg)
 
 This repository has a complete Python CheatSheet to create different visualizations in Python. 
 
